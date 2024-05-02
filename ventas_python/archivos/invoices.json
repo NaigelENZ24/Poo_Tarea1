@@ -1,0 +1,65 @@
+[
+    {
+        "factura": 1,
+        "Fecha": "2024-04-28",
+        "cliente": "naigel enz",
+        "subtotal": 0.9,
+        "descuento": 0.9,
+        "iva": 0.97,
+        "total": 9.07,
+        "detalle": [
+            {
+                "poducto": "cocacola",
+                "precio": 0.8,
+                "cantidad": 5
+            },
+            {
+                "poducto": "Mortadela",
+                "precio": 2.5,
+                "cantidad": 2
+            }
+        ]
+    },
+    {
+        "factura": 2,
+        "Fecha": "2024-05-01",
+        "cliente": "MARTHYNA",
+        "subtotal": 20.0,
+        "descuento": 2.0,
+        "iva": 2.16,
+        "total": 20.16,
+        "detalle": [
+            {
+                "poducto": "manzana",
+                "precio": 1.0,
+                "cantidad": 12
+            },
+            {
+                "poducto": "cocacola",
+                "precio": 0.8,
+                "cantidad": 5
+            },
+            {
+                "poducto": "aceite",
+                "precio": 2.0,
+                "cantidad": 2
+            }
+        ]
+    },
+    {
+        "factura": 3,
+        "Fecha": "2024-05-01",
+        "cliente": "Naigel Enriquez",
+        "subtotal": 1.6,
+        "descuento": 0.16,
+        "iva": 0.17,
+        "total": 1.61,
+        "detalle": [
+            {
+                "poducto": "cocacola",
+                "precio": 0.8,
+                "cantidad": 2
+            }
+        ]
+    }
+]

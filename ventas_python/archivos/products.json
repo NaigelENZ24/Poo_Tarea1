@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "descripcion": "aceite",
+        "precio": 4.0,
+        "stock": 800
+    },
+    {
+        "id": 2,
+        "descripcion": "cocacola",
+        "precio": 0.8,
+        "stock": 313
+    },
+    {
+        "id": 3,
+        "descripcion": "sandia",
+        "precio": 2.0,
+        "stock": 2000
+    }
+]
